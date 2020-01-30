@@ -75,3 +75,4 @@ class Owner
     end
   end
 end
+expect(@owner.name).to eq("Victoria")
